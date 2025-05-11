@@ -18,7 +18,7 @@ whether that answer is the correct answer. If so, the computer wins.
 Initially the computer is not very intelligent, but it grows more intelligent each time it loses a game. If the computer's
 answer guess is incorrect, you must give it a new question it can ask to help it in future games. For example, suppose in
 the preceding log that the player was not thinking of a mouse, but of a cat. The game log might look like this:
-<img width="752" alt="Screenshot 2025-05-10 at 10 49 36 PM" src="https://github.com/user-attachments/assets/ab6ac656-ce60-4ec8-93ac-02fe5eec6bbd" />
+<img width="780" alt="Screenshot 2025-05-10 at 10 49 36 PM" src="https://github.com/user-attachments/assets/ab6ac656-ce60-4ec8-93ac-02fe5eec6bbd" />
 
 The computer takes the new information from a lost game and uses it to replace the old incorrect answer node with a new
 question node that has the old incorrect answer and new correct answer as its children. For example, after the game
