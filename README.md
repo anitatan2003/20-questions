@@ -26,8 +26,8 @@ represented by the preceding log, the computer's overall game tree would be the 
 <img width="601" alt="Screenshot 2025-05-10 at 10 55 22 PM" src="https://github.com/user-attachments/assets/7dc82d5f-7a4c-41f3-a2ae-ff95dc07525e" />
 
 Example execution: 
-<break/>
-<img width="300" alt="Screenshot 2025-05-10 at 10 55 51 PM" src="https://github.com/user-attachments/assets/487f0f84-1fb5-4ade-ab21-69a192f25326" />
+
+<img width="350" alt="Screenshot 2025-05-10 at 10 55 51 PM" src="https://github.com/user-attachments/assets/487f0f84-1fb5-4ade-ab21-69a192f25326" />
 
 
 
